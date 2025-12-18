@@ -1,0 +1,28 @@
+# .gitignore for dotnet and node
+
+# Visual Studio
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sdf
+*.cache
+
+# Build
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
