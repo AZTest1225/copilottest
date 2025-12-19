@@ -1,0 +1,95 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0F9113EE-888A-26D2-68B0-4A7D0A2A8745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartnerManager.Api", "backend\src\PartnerManager.Api\PartnerManager.Api.csproj", "{641948AE-4C41-8959-633B-3C684A50AF87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartnerManager.Service", "backend\src\PartnerManager.Service\PartnerManager.Service.csproj", "{B3F5C1A2-8D4E-4F12-9C6E-1234567890AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartnerManager.Infrastructure", "backend\src\PartnerManager.Infrastructure\PartnerManager.Infrastructure.csproj", "{C4E6D2B3-9A5F-4E23-8D7F-ABCDEF123456}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{08A7E5FF-C867-442A-99FA-7F0847A53765}"
+	ProjectSection(SolutionItems) = preProject
+		frontend\Dockerfile = frontend\Dockerfile
+		frontend\index.html = frontend\index.html
+		frontend\package.json = frontend\package.json
+		frontend\README.md = frontend\README.md
+	EndProjectSection
+EndProject
+
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "frontend\src", "{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}"
+	ProjectSection(SolutionItems) = preProject
+		frontend\src\App.jsx = frontend\src\App.jsx
+		frontend\src\main.jsx = frontend\src\main.jsx
+	EndProjectSection
+EndProject
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopilotTest", "copilottest\CopilotTest.csproj", "{E5A1C2B3-1234-4F22-9A1B-CAFEBABE0001}"
+EndProject
+
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pages", "frontend\src\pages", "{D1A1C2E3-2222-4F22-9A1B-ABCDEF000002}"
+	ProjectSection(SolutionItems) = preProject
+		frontend\src\pages\ActivitiesPage.jsx = frontend\src\pages\ActivitiesPage.jsx
+		frontend\src\pages\AdminDashboard.jsx = frontend\src\pages\AdminDashboard.jsx
+		frontend\src\pages\Login.jsx = frontend\src\pages\Login.jsx
+		frontend\src\pages\PartnersPage.jsx = frontend\src\pages\PartnersPage.jsx
+		frontend\src\pages\Register.jsx = frontend\src\pages\Register.jsx
+		frontend\src\pages\UsersPage.jsx = frontend\src\pages\UsersPage.jsx
+	EndProjectSection
+EndProject
+
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "frontend\src\services", "{D1A1C2E3-3333-4F22-9A1B-ABCDEF000003}"
+	ProjectSection(SolutionItems) = preProject
+		frontend\src\services\api.js = frontend\src\services\api.js
+	EndProjectSection
+EndProject
+
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "styles", "frontend\src\styles", "{D1A1C2E3-4444-4F22-9A1B-ABCDEF000004}"
+	ProjectSection(SolutionItems) = preProject
+		frontend\src\styles\main.less = frontend\src\styles\main.less
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641948AE-4C41-8959-633B-3C684A50AF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641948AE-4C41-8959-633B-3C684A50AF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641948AE-4C41-8959-633B-3C684A50AF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641948AE-4C41-8959-633B-3C684A50AF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F5C1A2-8D4E-4F12-9C6E-1234567890AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F5C1A2-8D4E-4F12-9C6E-1234567890AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F5C1A2-8D4E-4F12-9C6E-1234567890AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F5C1A2-8D4E-4F12-9C6E-1234567890AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E6D2B3-9A5F-4E23-8D7F-ABCDEF123456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E6D2B3-9A5F-4E23-8D7F-ABCDEF123456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E6D2B3-9A5F-4E23-8D7F-ABCDEF123456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E6D2B3-9A5F-4E23-8D7F-ABCDEF123456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A1C2B3-1234-4F22-9A1B-CAFEBABE0001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A1C2B3-1234-4F22-9A1B-CAFEBABE0001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A1C2B3-1234-4F22-9A1B-CAFEBABE0001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A1C2B3-1234-4F22-9A1B-CAFEBABE0001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F9113EE-888A-26D2-68B0-4A7D0A2A8745} = {1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}
+		{641948AE-4C41-8959-633B-3C684A50AF87} = {0F9113EE-888A-26D2-68B0-4A7D0A2A8745}
+		{B3F5C1A2-8D4E-4F12-9C6E-1234567890AB} = {0F9113EE-888A-26D2-68B0-4A7D0A2A8745}
+		{C4E6D2B3-9A5F-4E23-8D7F-ABCDEF123456} = {0F9113EE-888A-26D2-68B0-4A7D0A2A8745}
+		{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001} = {08A7E5FF-C867-442A-99FA-7F0847A53765}
+		{D1A1C2E3-2222-4F22-9A1B-ABCDEF000002} = {D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}
+		{D1A1C2E3-3333-4F22-9A1B-ABCDEF000003} = {D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}
+		{D1A1C2E3-4444-4F22-9A1B-ABCDEF000004} = {D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC32E75E-D359-41D4-9E11-30FD85AAE381}
+	EndGlobalSection
+EndGlobal

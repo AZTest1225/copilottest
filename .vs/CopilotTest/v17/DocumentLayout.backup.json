@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\CopilotTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|d:\\codes\\copilottest\\backend\\src\\partnermanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|solutionrelative:backend\\src\\partnermanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A1C2E3-2222-4F22-9A1B-ABCDEF000002}|pages{D1A1C2E3-2222-4F22-9A1B-ABCDEF000002}|D:\\Codes\\CopilotTest\\frontend\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1A1C2E3-2222-4F22-9A1B-ABCDEF000002}|pages{D1A1C2E3-2222-4F22-9A1B-ABCDEF000002}|solutionrelative:frontend\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}|src{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}|D:\\Codes\\CopilotTest\\frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}|src{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}|solutionrelative:frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A7E5FF-C867-442A-99FA-7F0847A53765}|frontend{08A7E5FF-C867-442A-99FA-7F0847A53765}|D:\\Codes\\CopilotTest\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A7E5FF-C867-442A-99FA-7F0847A53765}|frontend{08A7E5FF-C867-442A-99FA-7F0847A53765}|solutionrelative:frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A7E5FF-C867-442A-99FA-7F0847A53765}|frontend{08A7E5FF-C867-442A-99FA-7F0847A53765}|D:\\Codes\\CopilotTest\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08A7E5FF-C867-442A-99FA-7F0847A53765}|frontend{08A7E5FF-C867-442A-99FA-7F0847A53765}|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A1C2E3-3333-4F22-9A1B-ABCDEF000003}|services{D1A1C2E3-3333-4F22-9A1B-ABCDEF000003}|D:\\Codes\\CopilotTest\\frontend\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1A1C2E3-3333-4F22-9A1B-ABCDEF000003}|services{D1A1C2E3-3333-4F22-9A1B-ABCDEF000003}|solutionrelative:frontend\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}|src{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}|D:\\Codes\\CopilotTest\\frontend\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}|src{D1A1C2E3-1111-4F22-9A1B-ABCDEF000001}|solutionrelative:frontend\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|d:\\codes\\copilottest\\backend\\src\\partnermanager.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|solutionrelative:backend\\src\\partnermanager.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|d:\\codes\\copilottest\\backend\\src\\partnermanager.api\\models\\partneractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|solutionrelative:backend\\src\\partnermanager.api\\models\\partneractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|d:\\codes\\copilottest\\backend\\src\\partnermanager.api\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|solutionrelative:backend\\src\\partnermanager.api\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|d:\\codes\\copilottest\\backend\\src\\partnermanager.api\\config\\cconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641948AE-4C41-8959-633B-3C684A50AF87}|backend\\src\\PartnerManager.Api\\PartnerManager.Api.csproj|solutionrelative:backend\\src\\partnermanager.api\\config\\cconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\src\\PartnerManager.Api\\Program.cs",
+              "ToolTip": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Program.cs",
+              "RelativeToolTip": "backend\\src\\PartnerManager.Api\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIA6wEIAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:52:41.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\frontend\\src\\pages\\Login.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\pages\\Login.jsx",
+              "ToolTip": "D:\\Codes\\CopilotTest\\frontend\\src\\pages\\Login.jsx",
+              "RelativeToolTip": "frontend\\src\\pages\\Login.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T06:31:37.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\frontend\\package.json",
+              "RelativeDocumentMoniker": "frontend\\package.json",
+              "ToolTip": "D:\\Codes\\CopilotTest\\frontend\\package.json",
+              "RelativeToolTip": "frontend\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-19T06:31:24.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\frontend\\src\\main.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\main.jsx",
+              "ToolTip": "D:\\Codes\\CopilotTest\\frontend\\src\\main.jsx",
+              "RelativeToolTip": "frontend\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T06:31:01.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\frontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\App.jsx",
+              "ToolTip": "D:\\Codes\\CopilotTest\\frontend\\src\\App.jsx",
+              "RelativeToolTip": "frontend\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-19T06:30:50.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\frontend\\index.html",
+              "RelativeDocumentMoniker": "frontend\\index.html",
+              "ToolTip": "D:\\Codes\\CopilotTest\\frontend\\index.html",
+              "RelativeToolTip": "frontend\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T06:28:26.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "api.js",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\frontend\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "frontend\\src\\services\\api.js",
+              "ToolTip": "D:\\Codes\\CopilotTest\\frontend\\src\\services\\api.js",
+              "RelativeToolTip": "frontend\\src\\services\\api.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-19T06:28:18.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\src\\PartnerManager.Api\\Models\\User.cs",
+              "ToolTip": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Models\\User.cs",
+              "RelativeToolTip": "backend\\src\\PartnerManager.Api\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T05:45:14.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PartnerActivity.cs",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Models\\PartnerActivity.cs",
+              "RelativeDocumentMoniker": "backend\\src\\PartnerManager.Api\\Models\\PartnerActivity.cs",
+              "ToolTip": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Models\\PartnerActivity.cs",
+              "RelativeToolTip": "backend\\src\\PartnerManager.Api\\Models\\PartnerActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T05:45:14.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "backend\\src\\PartnerManager.Api\\Models\\Activity.cs",
+              "ToolTip": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Models\\Activity.cs",
+              "RelativeToolTip": "backend\\src\\PartnerManager.Api\\Models\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T05:45:10.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CConfig.cs",
+              "DocumentMoniker": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Config\\CConfig.cs",
+              "RelativeDocumentMoniker": "backend\\src\\PartnerManager.Api\\Config\\CConfig.cs",
+              "ToolTip": "D:\\Codes\\CopilotTest\\backend\\src\\PartnerManager.Api\\Config\\CConfig.cs",
+              "RelativeToolTip": "backend\\src\\PartnerManager.Api\\Config\\CConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T05:45:06.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
